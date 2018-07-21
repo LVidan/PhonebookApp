@@ -1,0 +1,24 @@
+#add-view {
+  display: none
+}
+#edit-view {
+  display: none
+}
+#edit-form-view {
+  display: none;
+}
+#search-input {
+  height: 35px;
+}
+button {
+  height: 35px;
+}
+
+#s-icon {
+  width: 30px;
+  height: 30px;
+}
+#m-icon {
+  width: 110px;
+  height: 100px;
+}
